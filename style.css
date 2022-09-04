@@ -163,31 +163,31 @@ section {
 
 section.rewards {
     background: url(/assets/img/rewards.png) no-repeat center center/cover;
-    height: 70vh;
+    height: 80vh;
     width: 100%;
 }
 
 section.monsoon_delights {
     background: url(/assets/img/mosoon_delight_big_1.png) no-repeat center center/cover;
-    height: 70vh;
+    height: 85vh;
     width: 100%;
 }
 
 section.tropical-favourites {
     background: url(/assets/img/mosoon_delight_big_2.png) no-repeat center center/cover;
-    height: 70vh;
+    height: 85vh;
     width: 100%;
 }
 
 section.scoop-of-delights {
     background: url(/assets/img/scoops0fdelight.png) no-repeat center center/cover;
-    height: 70vh;
+    height: 85vh;
     width: 100%;
 }
 
 section.mobile-order {
     background: url(/assets/img/mobile_order.png) no-repeat center center/cover;
-    height: 70vh;
+    height: 85vh;
     width: 100%;
 }
 
